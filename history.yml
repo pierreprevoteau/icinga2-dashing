@@ -1,0 +1,52 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Paradigm shift","value":9},{"label":"Web 2.0","value":10},{"label":"Pivoting","value":18},{"label":"Turn-key","value":8},{"label":"Leverage","value":13},{"label":"Synergy","value":29},{"label":"Enterprise","value":19},{"label":"Streamlininess","value":3},{"label":"Exit strategy","value":7}],"id":"buzzwords","updatedAt":1448899944}
+
+convergence: |+
+  data: {"points":[{"x":357,"y":3},{"x":358,"y":49},{"x":359,"y":43},{"x":360,"y":4},{"x":361,"y":19},{"x":362,"y":43},{"x":363,"y":32},{"x":364,"y":43},{"x":365,"y":29},{"x":366,"y":1}],"id":"convergence","updatedAt":1448899944}
+
+valuation: |+
+  data: {"current":27,"last":92,"id":"valuation","updatedAt":1448899943}
+
+karma: |+
+  data: {"current":182718,"last":47244,"id":"karma","updatedAt":1448899943}
+
+synergy: |+
+  data: {"value":4,"id":"synergy","updatedAt":1448899943}
+
+icinga-overview: |+
+  data: {"value":"3","color":"red","id":"icinga-overview","updatedAt":1448904177}
+
+icinga-version: |+
+  data: {"value":"v2.4.1-42-g6a83703","color":"blue","id":"icinga-version","updatedAt":1448904177}
+
+icinga-uptime: |+
+  data: {"value":"280.6s","color":"blue","id":"icinga-uptime","updatedAt":1448904177}
+
+icinga-latency: |+
+  data: {"value":"0.0s","color":"blue","id":"icinga-latency","updatedAt":1448904177}
+
+icinga-execution-time: |+
+  data: {"value":"0.43s","color":"blue","id":"icinga-execution-time","updatedAt":1448904177}
+
+icinga-host-down: |+
+  data: {"value":"0","color":"red","id":"icinga-host-down","updatedAt":1448904177}
+
+icinga-service-critical: |+
+  data: {"value":"3","color":"red","id":"icinga-service-critical","updatedAt":1448904177}
+
+icinga-service-warning: |+
+  data: {"value":"1","color":"yellow","id":"icinga-service-warning","updatedAt":1448904177}
+
+icinga-service-ack: |+
+  data: {"value":"0","color":"blue","id":"icinga-service-ack","updatedAt":1448904177}
+
+icinga-host-ack: |+
+  data: {"value":"0","color":"blue","id":"icinga-host-ack","updatedAt":1448904177}
+
+icinga-service-downtime: |+
+  data: {"value":"0","color":"orange","id":"icinga-service-downtime","updatedAt":1448904177}
+
+icinga-host-downtime: |+
+  data: {"value":"0","color":"orange","id":"icinga-host-downtime","updatedAt":1448904177}
+
