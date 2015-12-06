@@ -25,7 +25,7 @@ if defined? settings.icinga2_api_nodename
   node_name = settings.icinga2_api_nodename
 end
 
-$api_url_base = "https://192.168.99.100:32773"
+$api_url_base = "https://192.168.99.100:32768"
 if defined? settings.icinga2_api_url
   api_url_base = settings.icinga2_api_url
 end
@@ -78,7 +78,7 @@ def get_app()
 end
 
 
-SCHEDULER.every '1s' do
+SCHEDULER.every '10s' do
 
   total_critical = 0
   total_warning = 0
